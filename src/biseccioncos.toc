@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.10pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Definici\IeC {\'o}n de Bisecci\IeC {\'o}n}{5}{0}{1}
+\beamer@sectionintoc {2}{Historia del C\IeC {\'a}lculo del n\IeC {\'u}mero $\pi $}{6}{0}{2}
+\beamer@sectionintoc {3}{Algunas f\IeC {\'o}rmulas que contienen el n\IeC {\'u}mero $\pi $}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{Geometr\IeC {\'\i }a}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{An\IeC {\'a}lisis}{20}{0}{3}
+\beamer@subsectionintoc {3}{3}{C\IeC {\'a}lculo}{25}{0}{3}

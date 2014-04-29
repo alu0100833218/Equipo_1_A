@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.5.13)  8 APR 2014 11:37
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.5.2)  9 APR 2014 12:19
 entering extended mode
  %&-line parsing enabled.
 **memte.tex
@@ -239,7 +239,7 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  1772 strings out of 495062
- 21454 string characters out of 1182644
+ 21454 string characters out of 1182645
  75798 words of memory out of 3000000
  4903 multiletter control sequences out of 15000+50000
  13237 words of font info for 48 fonts, out of 3000000 for 9000
