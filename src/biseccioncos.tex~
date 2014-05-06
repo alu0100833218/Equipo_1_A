@@ -36,32 +36,19 @@ El método de bisección es un algoritmo usado en matemáticas para llevar a cab
 
 \end{frame}
 
-\section{Historia del Cálculo del número $\pi$}
+\section{Definición del número $\pi$}
 
 \begin{frame}
-\frametitle{Historia del Cálculo del número $\pi$}
-El cálculo del número $\pi$ a lo largo de la historia ha sido una ardua tarea para los cientificos que han llevado a cabo sus aproximaciones.
+\frametitle{Definición del número $\pi$}
+El número $\pi$ es la relación existente entre el diámetro de la circunferencia con su longitud.
+Es un número irracional de los más importantes usados en las ciencias matemáticas, como la física, las ingenierías y las propias matemáticas.
 
-Algunas de sus aproximaciones a lo largo de la historia más importantes han tenido lugar en:
+El valor que toma esta constante es aproximadamente:
+ $$\pi = 3.14159265358979323846...$$
 
-\begin{itemize}
-  \item El Antiguo Egipto.
-  \pause
-  \item La Antigüedad Clásica (Grecia y Roma).
-  \pause
-  \item Mesopotamia.
-  \pause
-  \item La India.
-  \pause
-  \item China.
-  \pause
-  \item Europa.
-  \pause
-  \item Persia.
-  \pause
-\end{itemize}
+Como hemos visto en prácticas anteriores, este se puede calcular mediante integración:
 
-En la época actual el mayor numero de decimales obtenido se llevó  a cabo por Shigeru Kondo, obteniendo 10.000.000.000.000 cifras.
+$$\int_{0}^{1} \! \frac{4}{1+x^2}\, dx = 4(atan(1) -atan(0)) = \pi $$
 
 \end{frame}
 
