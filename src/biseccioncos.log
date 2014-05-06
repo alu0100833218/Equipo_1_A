@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.5.2)  29 APR 2014 11:51
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.24)  6 MAY 2014 11:36
 entering extended mode
  %&-line parsing enabled.
 **biseccioncos.tex
@@ -1237,31 +1237,28 @@ l.24 \end{frame}
 [4
 
 ]
-Overfull \vbox (26.20552pt too high) detected at line 41
- []
-
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.41 \end{frame}
+l.37 \end{frame}
                 
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.41 \end{frame}
+l.37 \end{frame}
                 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.41 \end{frame}
+l.37 \end{frame}
                 
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.41 \end{frame}
+l.37 \end{frame}
                 
 ? 
 [5
@@ -1269,38 +1266,38 @@ l.41 \end{frame}
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 43.
+(hyperref)                removing `math shift' on input line 39.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pi' on input line 43.
+(hyperref)                removing `\pi' on input line 39.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 43.
+(hyperref)                removing `math shift' on input line 39.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 [6
@@ -1309,25 +1306,25 @@ l.70 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 [7
@@ -1336,25 +1333,25 @@ l.70 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 [8
@@ -1363,25 +1360,25 @@ l.70 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 [9
@@ -1390,25 +1387,25 @@ l.70 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 [10
@@ -1417,25 +1414,25 @@ l.70 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 [11
@@ -1444,25 +1441,25 @@ l.70 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 [12
@@ -1471,25 +1468,25 @@ l.70 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.70 \end{frame}
+l.66 \end{frame}
                 
 ? 
 [13
@@ -1498,25 +1495,25 @@ l.70 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.85 \end{frame}
+l.81 \end{frame}
                 
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.85 \end{frame}
+l.81 \end{frame}
                 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.85 \end{frame}
+l.81 \end{frame}
                 
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.85 \end{frame}
+l.81 \end{frame}
                 
 ? 
 [14
@@ -1524,38 +1521,38 @@ l.85 \end{frame}
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 87.
+(hyperref)                removing `math shift' on input line 83.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pi' on input line 87.
+(hyperref)                removing `\pi' on input line 83.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 87.
+(hyperref)                removing `math shift' on input line 83.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 [15
@@ -1564,25 +1561,25 @@ l.110 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 [16
@@ -1591,25 +1588,25 @@ l.110 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 [17
@@ -1618,25 +1615,25 @@ l.110 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 [18
@@ -1645,25 +1642,25 @@ l.110 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.110 \end{frame}
+l.106 \end{frame}
                  
 ? 
 [19
@@ -1672,25 +1669,25 @@ l.110 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 [20
@@ -1699,25 +1696,25 @@ l.130 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 [21
@@ -1726,25 +1723,25 @@ l.130 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 [22
@@ -1753,25 +1750,25 @@ l.130 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 [23
@@ -1780,25 +1777,25 @@ l.130 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.130 \end{frame}
+l.126 \end{frame}
                  
 ? 
 [24
@@ -1807,25 +1804,25 @@ l.130 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.145 \end{frame}
+l.141 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.145 \end{frame}
+l.141 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.145 \end{frame}
+l.141 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.145 \end{frame}
+l.141 \end{frame}
                  
 ? 
 [25
@@ -1834,70 +1831,70 @@ l.145 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.145 \end{frame}
+l.141 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.145 \end{frame}
+l.141 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.145 \end{frame}
+l.141 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.145 \end{frame}
+l.141 \end{frame}
                  
 ? 
 [26
 
 ]
 
-LaTeX Warning: Command \' invalid in math mode on input line 159.
+LaTeX Warning: Command \' invalid in math mode on input line 155.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.159 \end{frame}
+l.155 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.159 \end{frame}
+l.155 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.159 \end{frame}
+l.155 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \' invalid in math mode on input line 159.
+LaTeX Warning: Command \' invalid in math mode on input line 155.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.159 \end{frame}
+l.155 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.159 \end{frame}
+l.155 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.159 \end{frame}
+l.155 \end{frame}
                  
 ? 
 Missing character: There is no è in font cmex10!
@@ -1907,37 +1904,37 @@ Missing character: There is no è in font cmex10!
 ! Undefined control sequence.
 \beamer@doifinframe ...eamertermplatebookbibitems 
                                                   \bibitem [Internet]{Juegos...
-l.159 \end{frame}
+l.155 \end{frame}
                  
 ? 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \penalty 
-l.159 \end{frame}
+l.155 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.159 \end{frame}
+l.155 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.159 \end{frame}
+l.155 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.159 \end{frame}
+l.155 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.159 \end{frame}
+l.155 \end{frame}
                  
 ? 
 [27
@@ -1960,27 +1957,25 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 15546 strings out of 495061
- 286841 string characters out of 1182622
+ 15540 strings out of 495061
+ 286671 string characters out of 1182621
  356958 words of memory out of 3000000
- 18244 multiletter control sequences out of 15000+50000
+ 18238 multiletter control sequences out of 15000+50000
  16135 words of font info for 60 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 49i,20n,62p,428b,792s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,20n,62p,548b,792s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sh
-are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-t
-exlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-texlive/fonts/type1/pub
-lic/amsfonts/cm/cmmi6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
-/cm/cmss10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss12.
-pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/sh
-are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texmf-
-texlive/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texmf-texlive/fo
-nts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texmf-texlive/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb>
-Output written on biseccioncos.pdf (27 pages, 302826 bytes).
+are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmss10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
+/cm/cmss12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss8.p
+fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
+Output written on biseccioncos.pdf (27 pages, 287476 bytes).
 PDF statistics:
- 848 PDF objects out of 1000 (max. 8388607)
+ 840 PDF objects out of 1000 (max. 8388607)
  62 named destinations out of 1000 (max. 500000)
  123 words of extra memory for PDF output out of 10000 (max. 10000000)
 

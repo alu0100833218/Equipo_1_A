@@ -28,16 +28,12 @@ David Tomás Montesdeoca Flores}
 \begin{frame}
 \frametitle{Definición de Bisección}
 
-Según la RAE, La bisección es la acción o efecto de bisecar,es decir, dividir a la mitad y se aplica generalmente en la división de ángulos. Aunque esta definición no se aleja mucho de la deseada, laque verdaderamente nos interesa es la siguiente:
+Según la RAE, La bisección es la acción o efecto de bisecar,es decir, dividir a la mitad y se aplica generalmente en la división de ángulos. Aunque esta definición no se aleja mucho de la deseada, la que verdaderamente nos interesa es la siguiente:
+
 \begin{block}{Definición aplicada}
-El método de bisección es un algoritmo usado en matemáticas para llevar a cabo una búsqueda de raíces, y el cual se realiza dividiendo el intervalo a la mitad y seleccionando el subintervalo de estos que contiene la raíz. Cuantas más cifras decimales queramos obtener más divisiones tendremos que realizar.
+El método de bisección es un algoritmo usado en matemáticas para llevar a cabo una búsqueda de raíces. En resumen, este método encuentra una raíz de $f(x)=0$. Este método se realiza dividiendo el intervalo a la mitad y seleccionando el subintervalo de estos que contiene la raíz, que es aquel en el que hay un cambio de signo.(Se sabe que una raíz esta en un intervalo cerrado si la función cambia de signo en los puntos extremos). Cuantas más cifras decimales queramos obtener más divisiones tendremos que realizar.
 \end{block} 
 
- $$\pi = 3.14159265358979323846...$$ 
-
-Como hemos visto en prácticas anteriores, este se puede calcular mediante integración:
-
-$$\int_{0}^{1} \! \frac{4}{1+x^2}\, dx = 4(atan(1) -atan(0)) = \pi $$
 \end{frame}
 
 \section{Historia del Cálculo del número $\pi$}
