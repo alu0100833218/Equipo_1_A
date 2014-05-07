@@ -1,9 +1,10 @@
 \beamer@endinputifotherversion {3.10pt}
 \select@language {spanish}
-\beamer@sectionintoc {1}{Definici\IeC {\'o}n de Bisecci\IeC {\'o}n}{6}{0}{1}
-\beamer@sectionintoc {2}{Definici\IeC {\'o}n del n\IeC {\'u}mero $\pi $}{7}{0}{2}
-\beamer@sectionintoc {3}{Ejemplo general de bisecci\IeC {\'o}n}{8}{0}{3}
-\beamer@sectionintoc {4}{Algunas f\IeC {\'o}rmulas que contienen el n\IeC {\'u}mero $\pi $}{9}{0}{4}
-\beamer@subsectionintoc {4}{1}{Geometr\IeC {\'\i }a}{9}{0}{4}
-\beamer@subsectionintoc {4}{2}{An\IeC {\'a}lisis}{14}{0}{4}
-\beamer@subsectionintoc {4}{3}{C\IeC {\'a}lculo}{19}{0}{4}
+\beamer@sectionintoc {1}{Definici\IeC {\'o}n de Bisecci\IeC {\'o}n}{7}{0}{1}
+\beamer@sectionintoc {2}{Definici\IeC {\'o}n del n\IeC {\'u}mero $\pi $}{8}{0}{2}
+\beamer@sectionintoc {3}{Ejemplo general de bisecci\IeC {\'o}n}{9}{0}{3}
+\beamer@sectionintoc {4}{Teorema de bisecci\IeC {\'o}n}{10}{0}{4}
+\beamer@sectionintoc {5}{Algunas f\IeC {\'o}rmulas que contienen el n\IeC {\'u}mero $\pi $}{11}{0}{5}
+\beamer@subsectionintoc {5}{1}{Geometr\IeC {\'\i }a}{11}{0}{5}
+\beamer@subsectionintoc {5}{2}{An\IeC {\'a}lisis}{16}{0}{5}
+\beamer@subsectionintoc {5}{3}{C\IeC {\'a}lculo}{21}{0}{5}
