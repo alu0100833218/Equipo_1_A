@@ -40,31 +40,34 @@ El método de bisección es un algoritmo usado en matemáticas para llevar a cab
 
 \begin{frame}
 \frametitle{Definición del número $\pi$}
+\begin{block}{Definición}
 El número $\pi$ es la relación existente entre el diámetro de la circunferencia con su longitud.
 Es un número irracional de los más importantes usados en las ciencias matemáticas, como la física, las ingenierías y las propias matemáticas.
 
 El valor que toma esta constante es aproximadamente:
  $$\pi = 3.14159265358979323846...$$
-
-Como hemos visto en prácticas anteriores, este se puede calcular mediante integración:
+\end{block}
+El número $\pi$ se puede calcular mediante integración:
 
 $$\int_{0}^{1} \! \frac{4}{1+x^2}\, dx = 4(atan(1) -atan(0)) = \pi $$
 
 \end{frame}
 
+\section{Ejemplo general de bisección}
+
 \begin{frame}
-\frametitle{Historia del Cálculo del número $\pi$}
-\begin{block}{Tabla de decimales obtenidos}
-\begin{table}{}
-\begin{tabular}{lrcl}
-Año   &  Nombre       &  Ordenador &  Número de decimales \\ \hline
-1949  &  Reitwiesner  &  ENIAC     &  2.037  \\ \hline
-1959  &  Guilloud     &  IBM 704   &  16.167  \\ \hline
-1986  &  Bailey       &  CRAY-2    &  29.360.111 \\ \hline
-2011  &  Kondo        &            &  10.000.000.000.000 \\ \hline
-\end{tabular}
-\end {table}
+\frametitle{Ejemplo general de bisección.}
+
+\begin{block}{}
+En la figura, se muestra gráficamente como los valores sucesivos convergen en una raíz de $f(x)$ cuando se empiezan con un par de valores que encierran una raíz. Podemos ver que 5.5 está a la mitad entre 4 y 6, y que 5.75 a la mitad entre 5.5 y 6. Siempre se considera al siguiente valor x al punto medio del último par que encierra entre corchetes a la raíz: Estos valores encierran a la raíz cuando $f(x)$ cambia de signo en los dos puntos.
 \end{block}
+
+\begin{figure}[b]
+\begin{center}
+\includegraphics[scale=0.4]{images.jpeg}
+\end{center}
+\end{figure}
+
 \end{frame}
 
 \section{Algunas fórmulas que contienen el número $\pi$}
