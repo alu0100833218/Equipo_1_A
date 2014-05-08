@@ -108,7 +108,7 @@
         {\Huge Bisección de $f(x)=cos($\pi$x)$} \\[2.5mm] 
         {\Huge Informe Científico-Técnico} \\[2.5mm]
         {\Large Carmen Laura Martín González y David Tómas Montesdeoca Flores} \\[5mm]
-        {\Large \textit{Grupo ($1\midA$) }} \\[5mm]
+        {\Large \textit{Grupo ($1$) }} \\[5mm]
 
 
         {\em Técnicas Experimentales. $1^{er}$ curso. $2^{do}$ semestre} \\[5mm]
@@ -132,7 +132,7 @@
 % No funciona bien \markboth sin "twoside" en \documentclass, pero al
 % ponerlo se dan un montón de errores de underfull \vbox, con lo que no se
 % ha puesto.
-\markboth{Carmen Laura y David Tómas}{Bisección de $f(x)=cos($\pi$x)$}
+\markboth{Nombre del alumno}{Título del trabajo}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Numeracion en romanos

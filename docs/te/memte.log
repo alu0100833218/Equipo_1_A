@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.5.2)  9 APR 2014 12:19
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.26)  8 MAY 2014 22:19
 entering extended mode
  %&-line parsing enabled.
 **memte.tex
@@ -159,18 +159,67 @@ File: images/logotipo-secundario-ULL.eps Graphic file (type eps)
 
 <images/logotipo-secundario-ULL.eps>
 LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <24.88> on input line 108.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 108.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 108.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.108         {\Huge Bisección de $f(x)=cos($\pi
+                                                $x)$} \\[2.5mm]
+? 
+! Extra }, or forgotten $.
+<recently read> }
+                 
+l.108 ...  {\Huge Bisección de $f(x)=cos($\pi$x)$}
+                                                   \\[2.5mm]
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108 ...\Huge Bisección de $f(x)=cos($\pi$x)$} \\
+                                                  [2.5mm]
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.108 ...\Huge Bisección de $f(x)=cos($\pi$x)$} \\
+                                                  [2.5mm]
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.108 ...\Huge Bisección de $f(x)=cos($\pi$x)$} \\
+                                                  [2.5mm]
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 111.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 111.
+! Undefined control sequence.
+<argument> Grupo ($1\midA 
+                          $) 
+l.111         {\Large \textit{Grupo ($1\midA$) }
+                                                } \\[5mm]
+? 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 114.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 114.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 114.
- [1
+[1
 
-] [2
+
+Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+[2
 
 ] (./memte.toc)
 \tf@toc=\write3
@@ -200,13 +249,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Cap\'{\i }tulo 1.
 (./tex/cap1.tex) [1
 
-]
+] [2]
 Cap\'{\i }tulo 2.
 (./tex/cap2.tex
 
-LaTeX Warning: Citation `Lam:86' on page 2 undefined on input line 10.
+LaTeX Warning: Citation `Lam:86' on page 3 undefined on input line 10.
 
-) [2
+) [3
 
 ]
 Cap\'{\i }tulo 3.
@@ -214,17 +263,31 @@ Cap\'{\i }tulo 3.
 File: images/figura1.eps Graphic file (type eps)
  <images/figura1.eps>
 File: images/imagen1.eps Graphic file (type eps)
- <images/imagen1.eps> (./tables/table.tex)) [3
+ <images/imagen1.eps> (./tables/table.tex)) [4
 
-] [4]
+]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.185 \chapter
+              {Conclusiones}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.185 \chapter
+              {Conclusiones}
+? 
+[5
+Non-PDF special ignored!
+Non-PDF special ignored!]
 Cap\'{\i }tulo 4.
-(./tex/cap4.tex) [5
-
-] [6
+(./tex/cap4.tex) [6
 
 ]
 Ap\'{e}ndice A.
 (./tex/apendice1.tex) [7
+
 
 ]
 Ap\'{e}ndice B.
@@ -238,12 +301,33 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1772 strings out of 495062
- 21454 string characters out of 1182645
- 75798 words of memory out of 3000000
- 4903 multiletter control sequences out of 15000+50000
- 13237 words of font info for 48 fonts, out of 3000000 for 9000
+ 1786 strings out of 495061
+ 21671 string characters out of 1182621
+ 76798 words of memory out of 3000000
+ 4916 multiletter control sequences out of 15000+50000
+ 15381 words of font info for 55 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,8n,27p,208b,286s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,8n,27p,420b,286s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
+cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/
+texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-texli
+ve/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/amsfonts/cm/cmti8.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmtt9.pfb>
+Output written on memte.pdf (17 pages, 236692 bytes).
+PDF statistics:
+ 133 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on memte.dvi (17 pages, 16856 bytes).

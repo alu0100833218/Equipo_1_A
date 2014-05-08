@@ -1,45 +1,36 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Chapter 1: Motivación y Objetivos 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-Los objetivos le dan al lector las razones por las que se realizó el
-proyecto o trabajo de investigación.
-
-Si simplemente se desea escribir escribir texto normal en LaTeX,
-sin complicadas fórmulas matemáticas o efectos especiales
-como cambios de fuente, entonces simplemente tiene que escribir
-en español normalmente. \par
-Si desea cambiar de párrafo ha de dejar una linea en blanco o bien 
-utilzar el comando \par
-No es necesario preocuparse de la sangría de los párrafos:
-todos los párrafos se sangrarán automáticamente con la excepción
-del primer párrafo de una sección.
-
-Se ha de distinguir entre la comilla simple `izquierda'
-y la comilla simple `derecha' cuando se escribe en el ordenador.
-En el caso de que se quiera utilizar comillas dobles se han de 
-escribir dos caracteres `comilla simple' seguidos, esto es,
-"comillas dobles".
-
-También se ha de tener cuidado con los guiones: se utiliza un único
-guión para la separacion de sílabas, mientras que se utilizan
-tres guiones seguidos para producir un guión de los que se usan
-como signo de puntuación --- como en esta oración.
+Este método , que se utiliza para resolver ecuaciones de una variable, está basado en el "Teorema de los Valores Intermedios" (TVM), en el cual se establece que toda función continua 'f', en un intervalo cerrado $[a,b]$, toma todos los valores que se hallan entre $f(a)$ y $f(b)$, de tal forma que la ecuación $f(x)=0$ tiene una sola raíz que verifica $f(a)*f(b)<0$.
 
 %---------------------------------------------------------------------------------
-\section{Sección Uno}
+\section{¿Qué es el método de bisección?}
 \label{1:sec:1}
-  Primer párrafo de la primera sección.
 
+  El método de la bisección es un algoritmo que nos permite encontrar una raíz de la función que tengamos. Su funcionamiento es muy similar al de la búsqueda binaria, sólo que estamos utilizando valores continuos ($\infty$) en lugar de discretos (finitos). Vamos a asumir que las funciones con las que trabajamos son continuas.
+
+  Sabemos que si la función $f(x)$ atraviesa el eje x, en la intersección existe una raíz, por lo que antes de la raíz $f(x) > 0$ y después $f(x) < 0$. Entonces, teniendo dos puntos 'a' y 'b' tales que $f(a)$ y $f(b)$ tienen signos opuestos, sabemos que debe haber una raíz en el intervalo $[a, b]$.
 
 %---------------------------------------------------------------------------------
-\section{Sección Dos}
+\section{¿Cómo funciona su algoritmo?}
 \label{1:sec:2}
-  Primer párrafo de la segunda sección.
+  El algoritmo funciona de la siguiente forma: 
 
 \begin{itemize}
-  \item Item 1
-  \item Item 2
-  \item Item 3
+  \item Primero tomamos el punto medio entre 'a' y 'b', al cual llamaremos $c ()$. Si el valor de $f(c)=0$, o está suficientemente cerca.
+  \item Segundo tomamos a 'c' como el valor de la raíz.
 \end{itemize}
 
+  En caso contrario:
+  
+\begin{itemize}
+  \item Primero reemplazamos a 'a' o 'b' por 'c', de acuerdo al signo de $f(c)$, de tal forma que los signos de $f(a)$ y $f(b)$ sigan siendo diferentes.
+\end{itemize}
+  
+  Finalmente, repetimos el método con el nuevo intervalo.
+
+%---------------------------------------------------------------------------------
+\section{Ventaja del método de bisección.}
+\label{1:sec:3}
+  
+  La principal ventaja de este método es que es muy eficaz aunque menos que el método de Newton, ya que, está garantizado que el método converge si los valores de $f(a)$ y $f(b)$ son de signos contrarios. La convergencia de este método es lineal, y su error absoluto después de n iteraciones es: $\frac{|b-a|}{2^n}$
