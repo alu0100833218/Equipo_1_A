@@ -5,5 +5,3 @@
 \beamer@sectionintoc {3}{Ejemplo general de bisecci\IeC {\'o}n}{9}{0}{3}
 \beamer@sectionintoc {4}{Teorema de bisecci\IeC {\'o}n}{10}{0}{4}
 \beamer@sectionintoc {5}{Bisecci\IeC {\'o}n de la funci\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
-\beamer@subsectionintoc {5}{1}{An\IeC {\'a}lisis}{12}{0}{5}
-\beamer@subsectionintoc {5}{2}{C\IeC {\'a}lculo}{17}{0}{5}

@@ -84,7 +84,7 @@ Si $[a_0, b_0],[a_1,b1],...,[a_n,b_n],...,$ denotan los intervalos en el método
 \section{Bisección de la función $f(x)=Cos($\pi$x)$} 
 
 \begin{frame}
-\frametitle{Bisección de la función $f(x)=Cos($\pi$x)$}
+\frametitle{Bisección de f(x)=Cos($\pi$x)}
 
 \begin{block}{}
 Gracias a la representación gráfica podemos ver que tomando el intervalo [0,1] y calculando el punto medio de este, nos sale inmediatamente el valor de la raíz. Pero si tomamos otro intervalo, se nos complicaría más, y aunque obtuvieramos el valor de la raíz, este tendría un error, que sería cada vez más pequeño conforme a las divisiones que realicemos.
@@ -92,42 +92,49 @@ Gracias a la representación gráfica podemos ver que tomando el intervalo [0,1]
 
 \begin{figure}[b]
 \begin{center}
-\includegraphics[scale=0.4]{cos.jpeg}
+\includegraphics[scale=0.8]{cos.jpeg}
 \end{center}
 \end{figure}
 
 \end{frame}
 
-\subsection{Análisis}
 \begin{frame}
-\frametitle{Algunas fórmulas que contienen el número $\pi$}
-\begin{block}{Análisis}
-\begin{itemize}
-  \item Fórmula de Leibniz.
-  \pause
-  \item Producto de Wallis.
-  \pause
-  \item Fórmula de Euler.
-  \pause
-  \item Fórmula de Stirling.
-  \pause
-  \item Método de Montecarlo
+\frametitle{Bisección de f(x)=Cos($\pi$x)}
 
-\end{itemize}
+\begin{block}{}
+Con el intervalo [0.2, 1.1], donde f(0.2) es positivo y f(1.1) negativo, y la fórmula del punto medio $\frac{a+b}{2}$ tenemos:$\frac{0.2+1.1}{2}=0.65$, donde f(0.65) es negativa, por lo que el cambio de signo se da en el intervalo [0.2, 0.65].
 \end{block}
+
+\begin{figure}[b]
+\begin{center}
+\includegraphics[scale=0.8]{cos.jpeg}
+\end{center}
+\end{figure}
 
 \end{frame}
 
-\subsection{Cálculo} 
 \begin{frame}
+\frametitle{Bisección de f(x)=Cos($\pi$x)}
 
-\begin{block}{Cálculo}
+\begin{block}{}
+Volvemos a repetir a operación con el nuevo intervalo, obteniendo que $\frac{0.2+0.65}{2}=0.425$, donde f(0,425) es positiva, localizandose ahora el cambio de signo en el intervalo [0.425, 0.65]. Al repetir sucesivamente obtenemos:
 \begin{itemize}
-  \item Área limitada por la astroide: $\frac{3}{8}\pi a^2 $.
+
+  \item $\frac{0.425+0.65}{2}=0.5375$, donde f(0.5375) es negativa.
   \pause
-
-  \item Área de la región comprendida por el eje X y un arco de la cicloide: $3 \pi a^2.$
-
+  \item Nuevo intervalo [0.425, 0.5375].
+  \pause
+  \item $\frac{0.425+0.5375}{2}=0.48125$, donde f(0.48125) es positiva.
+  \pause
+  \item Nuevo intervalo [0.48125, 0.5375].
+  \pause
+  \item $\frac{0.48125+0.5375}{2}=0.509375$, donde f(0.509375) es negativa.
+  \pause
+  \item Nuevo intervalo [0.48125, 0.509375].
+  \pause
+  \item $\frac{0.48125+0.509375}{2}=0.$, donde f(0.4953125) es positiva.
+  \pause
+  \item Y de este modo vamos acercándonos cada vez más a 0.5, con un error que será más pequeño conforme hagamos más divisiones.
 \end{itemize}
 \end{block}
 
@@ -146,7 +153,11 @@ Gracias a la representación gráfica podemos ver que tomando el intervalo [0,1]
   
   \beamertermplatebookbibitems
   \bibitem[Internet]{Juegos de lógica}
-  {\small $Análisis Numérico con Aplicaciones. Gerald·Wheatley. Editorial: Prentice Hall$}
+  {\small $Análisis\_Numérico\_con\_Aplicaciones. Gerald·Wheatley. Editorial: Prentice\_Hall$}
+  
+  \beamertermplatebookbibitems
+  \bibitem[Internet]{Juegos de lógica}
+  {\small $Las\_Matemáticas\_del\_Cálculo\_Científico.\_David \_kincaid\_y\_Ward\_Cheney.$}
   
 \end{thebibliography}
 \end{frame}
