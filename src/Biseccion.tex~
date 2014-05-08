@@ -1,0 +1,18 @@
+\documentclass[spanish,a4paper,10pt]{article}
+
+\usepackage{latexsym,amsfonts,amssymb,amstext,amsthm,float,amsmath}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage[dvips]{epsfig}
+\usepackage{doc}
+
+\begin{figure}[t]
+\begin{center}
+\includegraphics[scale=0.075]{imagen1.eps}
+\end{center}
+\end{figure}
+
+\begin{document}
+\title{Informe Científico-Técnicos.}
+\author{Carmen Laura Martín González \\ Práctica de Laboratorio \#10}
+\date{9 de Abril de 2014}
