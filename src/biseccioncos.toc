@@ -4,7 +4,6 @@
 \beamer@sectionintoc {2}{Definici\IeC {\'o}n del n\IeC {\'u}mero $\pi $}{8}{0}{2}
 \beamer@sectionintoc {3}{Ejemplo general de bisecci\IeC {\'o}n}{9}{0}{3}
 \beamer@sectionintoc {4}{Teorema de bisecci\IeC {\'o}n}{10}{0}{4}
-\beamer@sectionintoc {5}{Algunas f\IeC {\'o}rmulas que contienen el n\IeC {\'u}mero $\pi $}{11}{0}{5}
-\beamer@subsectionintoc {5}{1}{Geometr\IeC {\'\i }a}{11}{0}{5}
-\beamer@subsectionintoc {5}{2}{An\IeC {\'a}lisis}{16}{0}{5}
-\beamer@subsectionintoc {5}{3}{C\IeC {\'a}lculo}{21}{0}{5}
+\beamer@sectionintoc {5}{Bisecci\IeC {\'o}n de la funci\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
+\beamer@subsectionintoc {5}{1}{An\IeC {\'a}lisis}{12}{0}{5}
+\beamer@subsectionintoc {5}{2}{C\IeC {\'a}lculo}{17}{0}{5}
