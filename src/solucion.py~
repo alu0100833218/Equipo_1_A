@@ -5,6 +5,7 @@ import math
 import matplotlib.pyplot as pl
 import numpy as np
 import numpy as np
+import sys
 
 def f(x):
   return (math.cos(x*math.pi))
@@ -19,7 +20,6 @@ def biseccion(a,b,e):
     c=(a+b)/2.0
   return c
 
-import sys
 
 A=float(raw_input("Introduzca el extremo inferior del intervalo (a) en el que se desea buscar la raiz: "))
 B=float(raw_input("Introduzca el extremo superior del intervalo (b) en el que se desea buscar la raiz: "))
