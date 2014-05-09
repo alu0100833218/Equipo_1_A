@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.24)  9 MAY 2014 17:41
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.3.12)  9 MAY 2014 19:11
 entering extended mode
  %&-line parsing enabled.
 **biseccioncos.tex
@@ -1159,13 +1159,13 @@ l.18 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
                                                   
 ? 
 )
@@ -1199,13 +1199,13 @@ l.24 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
                                                   
 ? 
 )
@@ -1239,13 +1239,13 @@ l.24 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
                                                   
 ? 
 )
@@ -1279,13 +1279,13 @@ l.24 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
                                                   
 ? 
 )
@@ -1319,13 +1319,13 @@ l.24 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
                                                   
 ? 
 )
@@ -1359,13 +1359,13 @@ l.24 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{11}{0}{5}
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
                                                   
 ? 
 )
@@ -1395,6 +1395,46 @@ l.24 \end{frame}
 ? 
 [7
 
+] (./biseccioncos.toc
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
+                                                  
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 ...i\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
+                                                  
+? 
+)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.24 \end{frame}
+                
+? 
+! Extra }, or forgotten $.
+\beamer@stend ->\egroup 
+                        
+l.24 \end{frame}
+                
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.24 \end{frame}
+                
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.24 \end{frame}
+                
+? 
+[8
+
 ]
 ! Missing $ inserted.
 <inserted text> 
@@ -1420,7 +1460,7 @@ l.37 \end{frame}
 l.37 \end{frame}
                 
 ? 
-[8
+[9
 
 ]
 
@@ -1459,9 +1499,9 @@ l.54 \end{frame}
 l.54 \end{frame}
                 
 ? 
-[9
+[10
 
-] <images.jpeg, id=333, 254.9525pt x 185.69376pt>
+] <images.jpeg, id=376, 254.9525pt x 185.69376pt>
 File: images.jpeg Graphic file (type jpg)
  <use images.jpeg>
 ! Missing $ inserted.
@@ -1488,7 +1528,7 @@ l.71 \end{frame}
 l.71 \end{frame}
                 
 ? 
-[10
+[11
 
  <./images.jpeg>]
 ! Missing $ inserted.
@@ -1515,7 +1555,7 @@ l.81 \end{frame}
 l.81 \end{frame}
                 
 ? 
-[11
+[12
 
 ]
 
@@ -1538,7 +1578,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 84.
 
-<cos.jpeg, id=387, 261.22594pt x 118.94438pt>
+<cos.jpeg, id=430, 261.22594pt x 118.94438pt>
 File: cos.jpeg Graphic file (type jpg)
  <use cos.jpeg>
 ! Missing $ inserted.
@@ -1565,7 +1605,7 @@ l.99 \end{frame}
 l.99 \end{frame}
                 
 ? 
-[12
+[13
 
  <./cos.jpeg>]
 File: cos.jpeg Graphic file (type jpg)
@@ -1592,33 +1632,6 @@ l.114 \end{frame}
 <inserted text> 
                 }
 l.114 \end{frame}
-                 
-? 
-[13
-
-]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.141 \end{frame}
-                 
-? 
-! Extra }, or forgotten $.
-\beamer@stend ->\egroup 
-                        
-l.141 \end{frame}
-                 
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.141 \end{frame}
-                 
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.141 \end{frame}
                  
 ? 
 [14
@@ -1816,70 +1829,166 @@ l.141 \end{frame}
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.149 \end{frame}
+l.141 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.149 \end{frame}
+l.141 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.149 \end{frame}
+l.141 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.149 \end{frame}
+l.141 \end{frame}
                  
 ? 
 [22
 
-]
+] <python1.jpeg, id=695, 255.95625pt x 203.25937pt>
+File: python1.jpeg Graphic file (type jpg)
+ <use python1.jpeg>
+! Missing $ inserted.
+<inserted text> 
+                $
+l.154 \end{frame}
+                 
+? 
+! Extra }, or forgotten $.
+\beamer@stend ->\egroup 
+                        
+l.154 \end{frame}
+                 
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.154 \end{frame}
+                 
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.154 \end{frame}
+                 
+? 
+[23
 
-LaTeX Warning: Command \' invalid in math mode on input line 171.
+ <./python1.jpeg>] <python2.jpeg, id=721, 582.67688pt x 158.84344pt>
+File: python2.jpeg Graphic file (type jpg)
+
+<use python2.jpeg>
+Overfull \hbox (7.31352pt too wide) in paragraph at lines 169--169
+ [] 
+ []
+
+<python3.jpeg, id=722, 486.31688pt x 75.28125pt>
+File: python3.jpeg Graphic file (type jpg)
+ <use python3.jpeg>
+! Missing $ inserted.
+<inserted text> 
+                $
+l.169 \end{frame}
+                 
+? 
+! Extra }, or forgotten $.
+\beamer@stend ->\egroup 
+                        
+l.169 \end{frame}
+                 
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.169 \end{frame}
+                 
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.169 \end{frame}
+                 
+? 
+[24
+
+ <./python2.jpeg> <./python3.jpeg>]
+<python4.jpeg, id=748, 398.99063pt x 177.66376pt>
+File: python4.jpeg Graphic file (type jpg)
+ <use python4.jpeg>
+! Missing $ inserted.
+<inserted text> 
+                $
+l.179 \end{frame}
+                 
+? 
+! Extra }, or forgotten $.
+\beamer@stend ->\egroup 
+                        
+l.179 \end{frame}
+                 
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.179 \end{frame}
+                 
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.179 \end{frame}
+                 
+? 
+[25
+
+ <./python4.jpeg>]
+
+LaTeX Warning: Command \' invalid in math mode on input line 203.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \' invalid in math mode on input line 171.
+LaTeX Warning: Command \' invalid in math mode on input line 203.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 Missing character: There is no è in font cmex10!
@@ -1889,84 +1998,84 @@ Missing character: There is no è in font cmex10!
 ! Undefined control sequence.
 \beamer@doifinframe ...eamertermplatebookbibitems 
                                                   \bibitem [Internet]{Juegos...
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \penalty 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! Undefined control sequence.
 \beamer@doifinframe ...eamertermplatebookbibitems 
                                                   \bibitem [Internet]{Juegos...
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \penalty 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \' invalid in math mode on input line 171.
+LaTeX Warning: Command \' invalid in math mode on input line 203.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \' invalid in math mode on input line 171.
+LaTeX Warning: Command \' invalid in math mode on input line 203.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 1
-71.
+LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 2
+03.
 
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 171
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 203
 .
-LaTeX Font Info:    No file OMScmss.fd. on input line 171.
+LaTeX Font Info:    No file OMScmss.fd. on input line 203.
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textperiodcentered' on input line 171.
+(Font)              for symbol `textperiodcentered' on input line 203.
 
 
-LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 1
-71.
+LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 2
+03.
 
 Missing character: There is no è in font cmex10!
 Missing character: There is no è in font cmex10!
@@ -1975,91 +2084,91 @@ Missing character: There is no è in font cmex10!
 ! Undefined control sequence.
 \beamer@doifinframe ...eamertermplatebookbibitems 
                                                   \bibitem [Internet]{Juegos...
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \penalty 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \' invalid in math mode on input line 171.
+LaTeX Warning: Command \' invalid in math mode on input line 203.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \' invalid in math mode on input line 171.
+LaTeX Warning: Command \' invalid in math mode on input line 203.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \' invalid in math mode on input line 171.
+LaTeX Warning: Command \' invalid in math mode on input line 203.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! Missing { inserted.
 <to be read again> 
                    \begingroup 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \i invalid in math mode on input line 171.
+LaTeX Warning: Command \i invalid in math mode on input line 203.
 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 Missing character: There is no è in font cmex10!
@@ -2071,28 +2180,28 @@ Missing character: There is no è in font cmex10!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.171 \end{frame}
+l.203 \end{frame}
                  
 ? 
-[23
+[26
 
  </usr/share/texmf/tex/latex/beamer/base/art/beamericonarticle.pdf>]
 \tf@nav=\write6
@@ -2115,10 +2224,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 15550 strings out of 495061
- 286481 string characters out of 1182621
+ 15587 strings out of 495061
+ 286962 string characters out of 1182621
  359958 words of memory out of 3000000
- 18246 multiletter control sequences out of 15000+50000
+ 18270 multiletter control sequences out of 15000+50000
  16135 words of font info for 60 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  49i,20n,60p,548b,792s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2135,9 +2244,9 @@ s/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texmf-texlive/fonts/type1/pu
 blic/amsfonts/cm/cmssi8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8
 .pfb>
-Output written on biseccioncos.pdf (23 pages, 313214 bytes).
+Output written on biseccioncos.pdf (26 pages, 416946 bytes).
 PDF statistics:
- 767 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
- 127 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 869 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
+ 155 words of extra memory for PDF output out of 10000 (max. 10000000)
 

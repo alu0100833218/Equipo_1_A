@@ -1,8 +1,9 @@
 \beamer@endinputifotherversion {3.10pt}
 \select@language {spanish}
-\beamer@sectionintoc {1}{Definici\IeC {\'o}n de Bisecci\IeC {\'o}n}{8}{0}{1}
-\beamer@sectionintoc {2}{Definici\IeC {\'o}n del n\IeC {\'u}mero $\pi $}{9}{0}{2}
-\beamer@sectionintoc {3}{Ejemplo general de bisecci\IeC {\'o}n}{10}{0}{3}
-\beamer@sectionintoc {4}{Teorema de bisecci\IeC {\'o}n}{11}{0}{4}
-\beamer@sectionintoc {5}{Bisecci\IeC {\'o}n de la funci\IeC {\'o}n $f(x)=Cos($\pi $x)$}{12}{0}{5}
-\beamer@sectionintoc {6}{C\IeC {\'o}digo Python}{22}{0}{6}
+\beamer@sectionintoc {1}{Definici\IeC {\'o}n de Bisecci\IeC {\'o}n}{9}{0}{1}
+\beamer@sectionintoc {2}{Definici\IeC {\'o}n del n\IeC {\'u}mero $\pi $}{10}{0}{2}
+\beamer@sectionintoc {3}{Ejemplo general de bisecci\IeC {\'o}n}{11}{0}{3}
+\beamer@sectionintoc {4}{Teorema de bisecci\IeC {\'o}n}{12}{0}{4}
+\beamer@sectionintoc {5}{Bisecci\IeC {\'o}n de la funci\IeC {\'o}n $f(x)=Cos($\pi $x)$}{13}{0}{5}
+\beamer@sectionintoc {6}{C\IeC {\'o}digo Python}{23}{0}{6}
+\beamer@sectionintoc {7}{La Bibliograf\IeC {\'\i }a}{26}{0}{7}
