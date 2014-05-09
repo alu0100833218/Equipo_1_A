@@ -29,8 +29,6 @@ Este método , que se utiliza para resolver ecuaciones de una variable, está basa
   
   Finalmente, repetimos el método con el nuevo intervalo.
 
-  
-
 %---------------------------------------------------------------------------------
 \section{Ventaja del método de bisección.}
 \label{1:sec:3}

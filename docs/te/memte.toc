@@ -6,17 +6,17 @@
 \contentsline {chapter}{\numberline {2}Fundamentos te\'oricos}{3}
 \contentsline {section}{\numberline {2.1}\textlatin {\LaTeX }{}}{3}
 \contentsline {section}{\numberline {2.2}\textsc {Beamer}}{3}
-\contentsline {section}{\numberline {2.3}Python}{3}
+\contentsline {section}{\numberline {2.3}\textsf {Python}}{3}
 \contentsline {chapter}{\numberline {3}Procedimiento experimental}{4}
 \contentsline {section}{\numberline {3.1}Descripci\'on de los experimentos}{4}
 \contentsline {section}{\numberline {3.2}Descripci\'on del material}{4}
 \contentsline {section}{\numberline {3.3}Resultados obtenidos}{4}
 \contentsline {section}{\numberline {3.4}An\'alisis de los resultados}{4}
-\contentsline {chapter}{\numberline {4}Conclusiones}{6}
-\contentsline {chapter}{\numberline {A}T\IeC {\'\i }tulo del Ap\'endice 1}{7}
-\contentsline {section}{\numberline {A.1}Algoritmo XXX}{7}
-\contentsline {section}{\numberline {A.2}Algoritmo YYY}{7}
-\contentsline {chapter}{\numberline {B}T\IeC {\'\i }tulo del Ap\'endice 2}{8}
-\contentsline {section}{\numberline {B.1}Otro apendice: Seccion 1}{8}
-\contentsline {section}{\numberline {B.2}Otro apendice: Seccion 2}{8}
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{8}
+\contentsline {chapter}{\numberline {4}Conclusiones}{7}
+\contentsline {chapter}{\numberline {A}T\IeC {\'\i }tulo del Ap\'endice 1}{9}
+\contentsline {section}{\numberline {A.1}Algoritmo XXX}{9}
+\contentsline {section}{\numberline {A.2}Algoritmo YYY}{10}
+\contentsline {chapter}{\numberline {B}T\IeC {\'\i }tulo del Ap\'endice 2}{13}
+\contentsline {section}{\numberline {B.1}Otro apendice: Seccion 1}{13}
+\contentsline {section}{\numberline {B.2}Otro apendice: Seccion 2}{13}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{13}

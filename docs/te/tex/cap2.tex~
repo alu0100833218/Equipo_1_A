@@ -6,7 +6,7 @@
 
 Este trabajo trata sobre la bisección de la función $f(x)=cos(\pi*x)$. Para realizarlo utilizamos 
 programas como \LaTeX{} para la realizacion del pdf, \textsc{Beamer} para realizar la presentación y 
-Python para calcular las raices de la función nombrada anteriormente y crear su grafica correspondiente.
+\textsf{Python} para calcular las raices de la función nombrada anteriormente y crear su grafica correspondiente.
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -23,8 +23,8 @@ Python para calcular las raices de la función nombrada anteriormente y crear su 
   
   \textsc{Beamer} es una clase de \LaTeX que permite crear diapositivas. Aunque también puede ser utilizada para crear presentaciones dinamicas que pueden ser proyectadas desde el ordenador.
   
-\section{Python}
+\section{\textsf{Python}}
 \label{2:sec:3}
-  Python es un lenguaje de programación creado por Guido van Rossum a principios de los años 90 cuyo nombre está inspirado en el grupo de cómicos ingleses "Monty Python". Es un lenguaje similar a Perl, pero con una sintaxis muy limpia y que favorece un código legible.
+  \textsf{Python} es un lenguaje de programación creado por Guido van Rossum a principios de los años 90 cuyo nombre está inspirado en el grupo de cómicos ingleses "Monty \textsf{Python}". Es un lenguaje similar a Perl, pero con una sintaxis muy limpia y que favorece un código legible.
   
   Se trata de un lenguaje interpretado o de script, con tipado dinámico, fuertemente tipado, multiplataforma y orientado a objetos
