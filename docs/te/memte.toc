@@ -11,12 +11,12 @@
 \contentsline {section}{\numberline {3.1}Descripci\'on de los experimentos}{4}
 \contentsline {section}{\numberline {3.2}Descripci\'on del material}{4}
 \contentsline {section}{\numberline {3.3}Resultados obtenidos}{4}
-\contentsline {section}{\numberline {3.4}An\'alisis de los resultados}{4}
+\contentsline {section}{\numberline {3.4}An\'alisis de los resultados}{5}
 \contentsline {chapter}{\numberline {4}Conclusiones}{7}
 \contentsline {chapter}{\numberline {A}T\IeC {\'\i }tulo del Ap\'endice 1}{9}
-\contentsline {section}{\numberline {A.1}Algoritmo XXX}{9}
-\contentsline {section}{\numberline {A.2}Algoritmo YYY}{10}
+\contentsline {section}{\numberline {A.1}Codigo\_\textsf {Python}}{9}
+\contentsline {section}{\numberline {A.2}Codigo\_\textsf {Python}\_para\_el\_Hardware}{10}
 \contentsline {chapter}{\numberline {B}T\IeC {\'\i }tulo del Ap\'endice 2}{13}
-\contentsline {section}{\numberline {B.1}Otro apendice: Seccion 1}{13}
+\contentsline {section}{\numberline {B.1}Otro ap\~A\IeC {\copyright }ndice: Seccion 1}{13}
 \contentsline {section}{\numberline {B.2}Otro apendice: Seccion 2}{13}
 \contentsline {chapter}{Bibliograf\IeC {\'\i }a}{13}

@@ -10,7 +10,8 @@ David Tomás Montesdeoca Flores}
 \date[11/05/14]{11 de mayo de 2014}
 \usetheme{Madrid}
 
-
+\definecolor{ColorMorado}{RGB}{122,59,122}
+\setbeamercolor*{palette primary}{use=stucture, fg=white, bg=ColorMorado}
 \begin{document}
 
 \begin{frame}
@@ -96,7 +97,7 @@ Gracias a la representación gráfica podemos ver que tomando el intervalo [0,1]
 
 \begin{figure}[b]
 \begin{center}
-\includegraphics[scale=0.8]{cos.jpeg}
+\includegraphics[scale=0.3]{cos.jpeg}
 \end{center}
 \end{figure}
 
@@ -111,7 +112,7 @@ Con el intervalo [0.2, 1.1], donde f(0.2) es positivo y f(1.1) negativo, y la f�
 
 \begin{figure}[b]
 \begin{center}
-\includegraphics[scale=0.8]{cos.jpeg}
+\includegraphics[scale=0.4]{cos.jpeg}
 \end{center}
 \end{figure}
 
@@ -165,7 +166,7 @@ A continuación se muestra el código fuente creado en \textsf{Python} para la r
 \includegraphics[scale=0.6]{python2.jpeg}
 \end{center}
 \end{figure}
-\begin{figure}[b]
+\begin{figure}[b]\includegraphics[width=0.2\textwidth]{images/logotipo-secundario-ULL}\\[0.25cm]
 \begin{center}
 \includegraphics[scale=0.7]{python3.jpeg}
 \end{center}
@@ -178,6 +179,17 @@ A continuación se muestra el código fuente creado en \textsf{Python} para la r
 \begin{figure}[b]
 \begin{center}
 \includegraphics[scale=0.75]{python4.jpeg}
+\end{center}
+\end{figure}
+\end{frame}
+
+\section{Función Representada con Python}
+\begin{frame}
+\frametitle{Función representada con Python}
+
+\begin{figure}[b]
+\begin{center}
+\includegraphics[scale=0.5]{cos.jpeg}
 \end{center}
 \end{figure}
 \end{frame}

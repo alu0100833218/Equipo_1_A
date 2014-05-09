@@ -55,7 +55,7 @@ pl.xlim(X.min()*1.1,X.max()*1.1)
 pl.ylim(C.min()*1.1,C.max()*1.1)
 pl.yticks([-1, 0, +1])
 pl.title("Representacion grafica")
-pl.savefig("cos.eps", dpi=72)
+pl.savefig("cos.jpeg", dpi=72)
 pl.show()
 
 

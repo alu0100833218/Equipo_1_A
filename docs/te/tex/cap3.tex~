@@ -12,33 +12,46 @@ análisis de los resultados.
 \section{Descripción de los experimentos}
 \label{3:sec:1}
 
-bla, bla, etc. 
+En los experimentos, el tiempo de cálculo depende del ordenador, los intervalos, y el error que utilicemos, por ello explicaremos eso junto con el código.
+
+\*Mirar Apéndice 1. (Codigo\_\textsf{Python})
+
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 \section{Descripción del material}
 \label{3:sec:2}
 
 ('default', 'Feb 27 2014 20:00:17')
+
 Linux-3.2.0-61-generic-i686-with-Ubuntu-12.04-precise
+
 ('Linux', 'FISICA-PC', '3.2.0-61-generic', '#93-Ubuntu SMP Fri May 2 21:33:33 UTC 2014', 'i686', 'i686')
+
 2.7.3
+
 Genuine Intel(R) CPU            2160  @ 1.80GHz
+
 GenuineIntel
+
 1200.000 Hz
+
 1024 KB
 
+\*Mirar Apéndice 2(Codigo\_\textsf{Python}\_para\_el\_Hardware)
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 \section{Resultados obtenidos}
 \label{3:sec:3}
 
-bla, bla, etc. 
+Al realizar la bisección de la función, obtenemos una serie de datos.
+Un claro ejemplo es el cálculo del tiempo de error. 
+Otros de estos datos son las raíces calculadas, y otros son simples puntos calculados al sustituir un valor de x en f(x). Con estos puntos podemos realizar las siguientes tabla y gráfica.
 
 
 %------------------------------------------------------------------------------
 \begin{figure}[!th]
 \begin{center}
-\includegraphics[width=0.75\textwidth]{images/figura1.eps}
+\includegraphics[width=0.5\textwidth]{cos.eps}
 \caption{Ejemplo de figura}
 \label{fig:1}
 \end{center}
@@ -60,5 +73,6 @@ bla, bla, etc.
 \section{Análisis de los resultados}
 \label{3:sec:4}
 
-bla, bla, etc. 
+Como sabemos, lo que conseguimos con la bisección es calcular las raíces de la función tratada.
+Dependiendo del intervalo dado y el margen de error,  este valor se aproximará de mejor o peor modo, pero después de utilizar este programa realizado en \textsf{Python} podemos dar una tabla de raíces de nuestra función, que al ser periodica tiene infinitas.
 
