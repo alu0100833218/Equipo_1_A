@@ -4,25 +4,27 @@
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-En este capítulo se han de presentar los antecedentes teóricos y prácticos que
-apoyan el tema objeto de la investigación.
-
-En \LaTeX{}~\cite{Lam:86} es sencillo escribir expresiones
-matemáticas como $a=\sum_{i=1}^{10} {x_i}^{3}$
-y deben ser escritas entre dos simbolos \$.
-Los superíndices se obtienes con en simbolo \^{} y
-los subíndices con el símbolo \_-
-Por ejemplo: $x^2 \times y ^{\alpha + \beta}$.
-También se pueden escribir fórmulas centradas:
-\[h^2=a^2 + b^2 \]
+Este trabajo trata sobre la bisección de la función $f(x)=cos(\pi*x)$. Para realizarlo utilizamos 
+programas como \LaTeX{} para la realizacion del pdf, \textsc{Beamer} para realizar la presentación y 
+Python para calcular las raices de la función nombrada anteriormente y crear su grafica correspondiente.
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-\section{Primer apartado del segundo capítulo}
+\section{\LaTeX{}}
 \label{2:sec:1}
-  Primer párrafo de la primera sección.
+  \LaTeX{} es un paquete de macros que permite a los autores componer e imprimir su trabajo con la mayor calidad tipográfica posible, usando un formato profesional predefinido. \LaTeX{} due escrito originalmente por Leslie Lamport. Emplea el formateador de \TeX{} como motor de composición.
+  
+  \TeX{} es un programa de ordenador creado por Donald E. Knuth. Sirve oara componer texto y fórmulas matemáticas. 
 
-\section{Segundo apartado del segundo capítulo}
+
+\section{\textsc{Beamer}}
 \label{2:sec:2}
-  Primer párrafo de la segunda sección.
-
+  \textsc{Beamer} fue desarrollado por Till Tantau para la presentación de su tesis doctoral, como un conjunto de macros que facilitara el uso de otras clases, como seminar o prosper. 
+  
+  \textsc{Beamer} es una clase de \LaTeX que permite crear diapositivas. Aunque también puede ser utilizada para crear presentaciones dinamicas que pueden ser proyectadas desde el ordenador.
+  
+\section{Python}
+\label{2:sec:3}
+  Python es un lenguaje de programación creado por Guido van Rossum a principios de los años 90 cuyo nombre está inspirado en el grupo de cómicos ingleses "Monty Python". Es un lenguaje similar a Perl, pero con una sintaxis muy limpia y que favorece un código legible.
+  
+  Se trata de un lenguaje interpretado o de script, con tipado dinámico, fuertemente tipado, multiplataforma y orientado a objetos
