@@ -4,8 +4,9 @@
 \contentsline {section}{\numberline {1.2}\IeC {\textquestiondown }C\'omo funciona su algoritmo?}{1}
 \contentsline {section}{\numberline {1.3}Ventaja del m\'etodo de bisecci\'on.}{2}
 \contentsline {chapter}{\numberline {2}Fundamentos te\'oricos}{3}
-\contentsline {section}{\numberline {2.1}Primer apartado del segundo cap\IeC {\'\i }tulo}{3}
-\contentsline {section}{\numberline {2.2}Segundo apartado del segundo cap\IeC {\'\i }tulo}{3}
+\contentsline {section}{\numberline {2.1}\textlatin {\LaTeX }{}}{3}
+\contentsline {section}{\numberline {2.2}\textsc {Beamer}}{3}
+\contentsline {section}{\numberline {2.3}Python}{3}
 \contentsline {chapter}{\numberline {3}Procedimiento experimental}{4}
 \contentsline {section}{\numberline {3.1}Descripci\'on de los experimentos}{4}
 \contentsline {section}{\numberline {3.2}Descripci\'on del material}{4}
