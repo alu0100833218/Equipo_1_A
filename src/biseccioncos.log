@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.3.12)  9 MAY 2014 19:36
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.26)  9 MAY 2014 21:32
 entering extended mode
  %&-line parsing enabled.
 **biseccioncos.tex
@@ -1961,45 +1961,45 @@ l.183 \end{frame}
 
  <./python4.jpeg>]
 
-LaTeX Warning: Command \' invalid in math mode on input line 207.
+LaTeX Warning: Command \' invalid in math mode on input line 218.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \' invalid in math mode on input line 207.
+LaTeX Warning: Command \' invalid in math mode on input line 218.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 Missing character: There is no è in font cmex10!
@@ -2009,84 +2009,84 @@ Missing character: There is no è in font cmex10!
 ! Undefined control sequence.
 \beamer@doifinframe ...eamertermplatebookbibitems 
                                                   \bibitem [Internet]{Juegos...
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \penalty 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! Undefined control sequence.
 \beamer@doifinframe ...eamertermplatebookbibitems 
                                                   \bibitem [Internet]{Juegos...
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \penalty 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \' invalid in math mode on input line 207.
+LaTeX Warning: Command \' invalid in math mode on input line 218.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \' invalid in math mode on input line 207.
+LaTeX Warning: Command \' invalid in math mode on input line 218.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 
 LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 2
-07.
+18.
 
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 207
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 218
 .
-LaTeX Font Info:    No file OMScmss.fd. on input line 207.
+LaTeX Font Info:    No file OMScmss.fd. on input line 218.
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textperiodcentered' on input line 207.
+(Font)              for symbol `textperiodcentered' on input line 218.
 
 
 LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 2
-07.
+18.
 
 Missing character: There is no è in font cmex10!
 Missing character: There is no è in font cmex10!
@@ -2095,91 +2095,91 @@ Missing character: There is no è in font cmex10!
 ! Undefined control sequence.
 \beamer@doifinframe ...eamertermplatebookbibitems 
                                                   \bibitem [Internet]{Juegos...
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \penalty 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \' invalid in math mode on input line 207.
+LaTeX Warning: Command \' invalid in math mode on input line 218.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \' invalid in math mode on input line 207.
+LaTeX Warning: Command \' invalid in math mode on input line 218.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \' invalid in math mode on input line 207.
+LaTeX Warning: Command \' invalid in math mode on input line 218.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! Missing { inserted.
 <to be read again> 
                    \begingroup 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 
-LaTeX Warning: Command \i invalid in math mode on input line 207.
+LaTeX Warning: Command \i invalid in math mode on input line 218.
 
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! You can't use `\spacefactor' in math mode.
 <argument> ...cefactor \spacefactor }\spacefactor 
                                                   \accent@spacefactor 
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 Missing character: There is no è in font cmex10!
@@ -2188,28 +2188,46 @@ Missing character: There is no è in font cmex10!
 Missing character: There is no è in font cmex10!
 Missing character: There is no è in font cmex10!
 Missing character: There is no è in font cmex10!
+! Undefined control sequence.
+\beamer@doifinframe ...eamertermplatebookbibitems 
+                                                  \bibitem [Internet]{wikipe...
+l.218 \end{frame}
+                 
+? 
+! Undefined control sequence.
+\beamer@doifinframe ...eamertermplatebookbibitems 
+                                                  \bibitem [Internet]{Juegos...
+l.218 \end{frame}
+                 
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \penalty 
+l.218 \end{frame}
+                 
+? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! Extra }, or forgotten $.
 \beamer@stend ->\egroup 
                         
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.207 \end{frame}
+l.218 \end{frame}
                  
 ? 
 [26
@@ -2235,10 +2253,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 15597 strings out of 495061
- 287113 string characters out of 1182621
+ 15601 strings out of 495061
+ 287173 string characters out of 1182621
  359958 words of memory out of 3000000
- 18278 multiletter control sequences out of 15000+50000
+ 18282 multiletter control sequences out of 15000+50000
  16135 words of font info for 60 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  49i,20n,60p,548b,792s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2255,7 +2273,7 @@ s/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texmf-texlive/fonts/type1/pu
 blic/amsfonts/cm/cmssi8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8
 .pfb>
-Output written on biseccioncos.pdf (26 pages, 592396 bytes).
+Output written on biseccioncos.pdf (26 pages, 593128 bytes).
 PDF statistics:
  871 PDF objects out of 1000 (max. 8388607)
  61 named destinations out of 1000 (max. 500000)
