@@ -14,6 +14,10 @@ David Tomás Montesdeoca Flores}
 \begin{document}
 
 \begin{frame}
+\includegraphics[width=0.15\textwidth]{ULL.jpeg}
+\hspace*{7.5cm}
+\includegraphics[width=0.16\textwidth]{logocentro.jpeg}
+\hspace*{7.5cm}
 \titlepage
 \end{frame}
 
