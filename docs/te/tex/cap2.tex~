@@ -12,9 +12,9 @@ programas como \LaTeX{} para la realizacion del pdf, \textsc{Beamer} para realiz
 
 \section{\LaTeX{}}
 \label{2:sec:1}
-  \LaTeX{} es un paquete de macros que permite a los autores componer e imprimir su trabajo con la mayor calidad tipográfica posible, usando un formato profesional predefinido. \LaTeX{} due escrito originalmente por Leslie Lamport. Emplea el formateador de \TeX{} como motor de composición.
+  \LaTeX{} es un paquete de macros que permite a los autores componer e imprimir su trabajo con la mayor calidad tipográfica posible, usando un formato profesional predefinido. \LaTeX{} Fue escrito originalmente por Leslie Lamport. Emplea el formateador de \LaTeX{} como motor de composición.
   
-  \TeX{} es un programa de ordenador creado por Donald E. Knuth. Sirve oara componer texto y fórmulas matemáticas. 
+  \LaTeX{} es un programa de ordenador creado por Donald E. Knuth. Sirve para componer texto y fórmulas matemáticas. 
 
 
 \section{\textsc{Beamer}}

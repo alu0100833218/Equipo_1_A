@@ -1,5 +1,5 @@
-\section{Codigo\_\textsf{Python}}
-\label{Apendice1:XXX}
+\section{Codigo \textsf{Python}}
+\label{Apendice1:Calculo de la biseccion}
 
 \begin{center}
 \begin{footnotesize}
@@ -13,7 +13,7 @@
 # 11-05-2014
 #
 # Es un programa que calcula la biseccion de la funcion f(x)=cos(pix) en un intervalo que 
-# que debe introducir el usuario junto con un margen de error. Además de calcular 
+# que debe introducir el usuario junto con un margen de error. Ademas de calcular 
 # las raices de la funcion, calcula el tiempo de ejecucion y dibuja la grafica en 
 # otro intervalo distinto pedido al usuario.
 #
@@ -23,7 +23,6 @@
 import time
 import math
 import matplotlib.pyplot as pl
-import numpy as np
 import numpy as np
 import sys
 
@@ -83,7 +82,7 @@ pl.show()
 \end{footnotesize}
 \end{center}
 
-\section{Codigo\_\textsf{Python}\_para\_el\_Hardware}
+\section{Codigo \textsf{Python} para el Hardware}
 \label{Apendice1:YYY}
 
 \begin{center}
@@ -97,7 +96,7 @@ pl.show()
  #
  # 11-05-2014
  #
- # Este programa nos muestra la versión de Linux que estamos utilizando y lo guarda 
+ # Este programa nos muestra la version de Linux que estamos utilizando y lo guarda 
  # en un fichero de texto.
  #
  ##################################################################################
@@ -142,7 +141,7 @@ if __name__ == '__main__':
   for keys in cpuinfo.keys():
     print cpuinfo[keys]
   
-  print "Introduzca el  ##################################################################################nombre del fichero para almacenar los resultados: "
+  print "Introduzca el nombre del fichero para almacenar los resultados: "
   nombre_fichero = raw_input();
   f = open(nombre_fichero, "w")
   for keys in softinfo.keys():

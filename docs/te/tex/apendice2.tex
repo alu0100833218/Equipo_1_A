@@ -1,26 +1,38 @@
-\section{Otro apéndice: Seccion 1}
+\section{Codigo \textsf{Python} para la representacion}
 \label{Apendice2:label}
 
 \begin{center}
 \begin{footnotesize}
 
 \begin{verbatim}
-Texto
+
+import math
+import matplotlib.pyplot as pl
+
+x=int(raw_input("Introduzca el maximo valor de x para la representacion: "))
+lista=[]
+for i in range(x):
+  y=math.cos(math.pi*i)
+  lista.append(y)
+  
+
+pl.figure(figsize=(8,6), dpi=80)
+
+X = np.linspace(-x, x, 256, endpoint=True)
+C = np.cos(X*np.pi)
+S = 0*(X)
+
+pl.plot(X,C, color="cyan", linewidth=2.5, linestyle="-", label="Coseno")
+pl.plot(X,S, color="black", linewidth=1.5, linestyle="-", label="Eje X")
+pl.legend(loc='upper left')
+pl.xlim(X.min()*1.1,X.max()*1.1)
+pl.ylim(C.min()*1.1,C.max()*1.1)
+pl.yticks([-1, 0, +1])
+pl.title("Representacion grafica")
+pl.savefig("cos.eps", dpi=72)
+pl.show()
 \end{verbatim}
 
 \end{footnotesize}
 \end{center}
 
-\section{Otro apendice: Seccion 2}
-\label{Apendice2:label2}
-
-\begin{center}
-\begin{footnotesize}
-
-\begin{verbatim}
-Texto
-\end{verbatim}
-
-
-\end{footnotesize}
-\end{center}

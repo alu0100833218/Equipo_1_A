@@ -2,5 +2,19 @@
 % Chapter 4: Conclusiones y Trabajos Futuros 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Con este trabajo hemos aprendido a utilizar diferentes elementos para crear un fichero de texto y la presentacion a modo de diapositivas, con un cierto grado de exigencia aplicando metodos matematicos, ser independientes buscando informacion sobre el tema propuesto y a la vez aprender a trabajar en equipo.
-Los trabajos futuros estan por venir, y aunque no se sabe con certeza, es muy probable que tengamos que volver a usar estos elementos para realizarlos.
+Para concluir tenemos que mencionar varios puntos del trabajo:
+
+\begin{itemize}
+
+\item \textsf{Python} esta en movimiento y en pleno desarrollo, pera ya es una realidad y una interesante opcion para realizar todo tipo de programas que se ejecuten en cualquier maquina. El equipo de desarrollo esta trabajando de manera cada vez mas organizada y cuentan con el apoyo de una comunidad que esta creciendo rapidamente.
+
+\item Algunas de las ventajas que tiene \LaTeX{} son que, crea con facilidad estructuras complejas como pies de pagina, indices, tablas, etc, y para la rama de ciencias tiene principalmente una ventaja primordial que es que se pueden crear con facilidad formulas matematicas.
+
+\item \textsc{Beamer} tiene todas las ventajas de \LaTeX{}. Su presentacion en PDF es estandar y portable. Ademas tiene unos estilos predefinidos con botones de navegacion, tablas de contenidos, pies de pagina informativos, etc.
+
+\item El metodo de la Biseccion converge lentamente, lo que genera la propagacion de error por la cantidad de operaciones e iteraciones necesarias para que el metodo converja.
+
+\end{itemize}
+
+Finalmente, al complementar los elementos mencionados anteriormente y centrandonos en el calculo de las raices mediante el metodo de biseccion, hemos aprendido a crear un fichero de texto y una presentacion a modo de diapositivas, con un cierto grado de exigencia. Tambien hemos aprendido a ser independientes buscando la informacion correcta sobre el tema propuesto y a la vez aprender a trabajar en equipo.
+Bajo nuestro punto de vista este es el objetivo de la programacion de este trabajo, ya que, esto nos serviria para los trabajos futuros que tengamos que realizar.

@@ -108,7 +108,7 @@
         {\Huge Bisección de $f(x)=cos($\pi$x)$} \\[2.5mm] 
         {\Huge Informe Científico-Técnico} \\[2.5mm]
         {\Large Carmen Laura Martín González y David Tómas Montesdeoca Flores} \\[5mm]
-        {\Large \textit{Grupo ($1\midA$) }} \\[5mm]
+        {\Large \textit{Grupo ($1\midA$)}} \\[5mm]
 
 
         {\em Técnicas Experimentales. $1^{er}$ curso. $2^{do}$ semestre} \\[5mm]
@@ -194,12 +194,12 @@
 \thispagestyle{empty}
 \begin{appendix}
 
-\chapter{Título del Apéndice 1}
+\chapter{Apéndice A: Código para la bisección y Hardware}
 \label{appendix:1}
 
 \input{tex/apendice1.tex}
 
-\chapter{Título del Apéndice 2}
+\chapter{Apéndice B: Código para la representación de funciones}
 \label{appendix:2}
 
 \input{tex/apendice2.tex}

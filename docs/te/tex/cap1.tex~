@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Chapter 1: Motivación y Objetivos 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Este método , que se utiliza para resolver ecuaciones de una variable, está basado en el "Teorema de los Valores Intermedios" (TVM), en el cual se establece que toda función continua 'f', en un intervalo cerrado $[a,b]$, toma todos los valores que se hallan entre $f(a)$ y $f(b)$, de tal forma que la ecuación $f(x)=0$ tiene una sola raíz que verifica $f(a)*f(b)<0$.
+Este método , se utiliza para resolver ecuaciones de una variable, está basado en el "Teorema de los Valores Intermedios" (TVM), en el cual se establece que toda función continua 'f', en un intervalo cerrado $[a,b]$, toma todos los valores que se hallan entre $f(a)$ y $f(b)$, de tal forma que la ecuación $f(x)=0$ tiene una sola raíz que verifica $f(a)*f(b)<0$.
 
 %---------------------------------------------------------------------------------
 \section{¿Qué es el método de bisección?}
