@@ -228,7 +228,8 @@ A continuación se muestra el código fuente creado en \textsf{Python} para la r
   
   \beamertermplatebookbibitems
   \bibitem[Internet]{Juegos de lógica}
-  {\small $Puede\_acceder\_al\_Repositorio\_online\_en:  https://github.com/alu0100833218/Equipo\_1\_A$}
+  {\small $Puede\_acceder\_al\_Repositorio\_online\_en:$}  
+  {\small $https://github.com/alu0100833218/Equipo\_1\_A$}
   
   
 \end{thebibliography}
