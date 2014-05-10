@@ -17,5 +17,5 @@
 \contentsline {section}{\numberline {A.1}Codigo \textsf {Python}}{9}
 \contentsline {section}{\numberline {A.2}Codigo \textsf {Python} para el Hardware}{10}
 \contentsline {chapter}{\numberline {B}Ap\'endice B: C\'odigo para la representaci\'on de funciones}{13}
-\contentsline {section}{\numberline {B.1}Codigo \textsf {Python} para la representacion}{13}
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{13}
+\contentsline {section}{\numberline {B.1}Explicacion del codigo \textsf {Python} }{13}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{15}

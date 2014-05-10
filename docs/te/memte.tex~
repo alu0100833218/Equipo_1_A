@@ -99,9 +99,13 @@
 \setlength{\parskip}{0mm}
 \vspace*{\stretch{1}}
 
+\begin{figure}[!th]
 \begin{center}
-\includegraphics[width=0.2\textwidth]{images/logotipo-secundario-ULL}\\[0.25cm]
+\includegraphics[width=0.25\textwidth]{images/logotipo-secundario-ULL.jpeg}
+\label{fig:1}
 \end{center}
+\end{figure}
+%------------
 
 \HRule
 \begin{center}

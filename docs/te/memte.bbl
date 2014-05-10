@@ -1,50 +1,39 @@
 \begin{thebibliography}{1}
 
-\bibitem{deWaard:2007}
-Anita de~Waard.
-\newblock A pragmatic structure for research articles.
-\newblock In {\em Proceedings of the 2nd international conference on Pragmatic
-  web}, ICPW '07, pages 83--89, New York, NY, USA, 2007. ACM.
+\bibitem{Prentice Hall}
+Gerald and Wheatley.
+\newblock Analisis Numerico con Aplicaciones.
 
-\bibitem{gibaldMLA:2009}
-J.~Gibaldi and Modern Language~Association of~America.
-\newblock {\em MLA handbook for writers of research papers}.
-\newblock Writing guides. Reference. Modern Language Association of America,
-  2009.
 
-\bibitem{gopen:1990}
-G.D. Gopen and J.A. Swan.
-\newblock {The Science of Scientific Writing}.
-\newblock {\em American Scientist}, 78(6):550--558, 1990.
+\bibitem{}
+David kincaid y Ward Cheney.
+\newblock Las Matematicas del Calculo Cientifico.
 
-\bibitem{Lamport:LDP94}
-Leslie Lamport.
-\newblock {\em \LaTeX: A Document Preparation System}.
-\newblock Addison--Wesley Pub.\ Co., Reading, MA, 1986.
+\bibitem{Internet}
+Wikipedia:
+\newblock es.wikipedia.org/wiki/Metodo\_de\_biseccion\#Algoritmo
 
-\bibitem{Leo:96}
-Coromoto Le\'on.
-\newblock {\em Dise\~no e implementaci\'on de lenguajes orientados al modelo
-  PRAM}.
-\newblock PhD thesis, 1996.
+\bibitem{Internet}
+Juegos de Logica:
+\newblock www.juegosdelogica.com/numero\_\pi.htm
 
-\bibitem{869377}
-Guido Rossum.
-\newblock Python library reference.
-\newblock Technical report, Amsterdam, The Netherlands, The Netherlands, 1995.
+\bibitem{Biblioteca ULL}
+Punto Q:
 
-\bibitem{869369}
-Guido Rossum.
-\newblock Python reference manual.
-\newblock Technical report, Amsterdam, The Netherlands, The Netherlands, 1995.
+\newblock http://riunet.upv.es/handle/10251/5617
 
-\bibitem{869378}
-Guido Rossum.
-\newblock Python tutorial.
-\newblock Technical report, Amsterdam, The Netherlands, The Netherlands, 1995.
+\newblock http://riunet.upv.es/handle/10251/2063
 
-\bibitem{URL:XML}
-ACM~LaTeX Style.
-\newblock http://www.acm.org/publications/latex\style/.
+\newblock http://riunet.upv.es/handle/10251/5567
+
+\bibitem{Internet}
+Carmona Teaching:
+\newblock http://www.ma3.upc.edu/users/carmona/teaching/clases/08-09/trabajos/metodo\%20biseccion.pdf
+
+\bibitem{Propio}
+GitHub
+
+\newblock Puede acceder al Repositorio online en:
+\newblock https://github.com/alu0100833218/Equipo\_1\_A
 
 \end{thebibliography}

@@ -1,21 +1,70 @@
-\section{Codigo \textsf{Python} para la representacion}
+\section{Explicacion del codigo \textsf{Python} }
 \label{Apendice2:label}
 
-\begin{center}
-\begin{footnotesize}
+Como dijimos en el apendice anterior, se trata del codigo de un programa realizado en python para calcular la biseccion de f(x)=Cos($\pi$x)  en un intervalo introducido por el usuario junto con el margen de error. ademas calcula el tiempo de ejecucion y dibuja la grafica en otro intervalo que desee el usuario.\par
+
+Primero importamos las librerias necesarias. En este caso las necesitamos para calcular el tiempo, para las funciones trigonometricas (Coseno), y para representar graficas.
 
 \begin{verbatim}
-
+#! /usr/bin/python
+#!encoding: UTF-8
+import time
 import math
 import matplotlib.pyplot as pl
+import numpy as np
+import sys
+\end{verbatim}
 
+Definimos las dos funciones que vamos a usar principalmente, una para calcular los valores de f(x) al sustituir un x en ella, y otra para calcular la biseccion.
+
+\begin{verbatim}
+def f(x):
+  return (math.cos(x*math.pi))
+  
+def biseccion(a,b,e):
+  c=(a+b)/2.0
+  while((f(c)!=0.00000001) and (abs(b-a)>e)):
+    if f(a)*f(c)<0.00000001:
+      b=c
+    else:
+      a=c
+    c=(a+b)/2.0
+  return c
+\end{verbatim}
+
+A continuacion pedimos al usuario que ingrese los extremos superior e inferior del intervalo y la tolerancia o margen de error.
+Establecemos una condicion para poder realizar la biseccion, y es que exista un cambio de signo entre f(A) y f(B), asi que f(A)*f(B)<0. Cuando esto se cumple el programa se ejecuta, empezando a contar el tiempo y parando este "cronometro" despues del calculo.
+
+
+\begin{verbatim}
+A=float(raw_input("Introduzca el extremo inferior del intervalo (a) en el que se desea buscar la raiz: "))
+B=float(raw_input("Introduzca el extremo superior del intervalo (b) en el que se desea buscar la raiz: "))
+E=float(raw_input("Introduzca el margen de error a partir del cual no afecte demasiado a sus calculos: "))
+if f(A)*f(B)<0.00000001:
+  start=time.time()
+  r=biseccion(A,B,E)
+  finish=time.time()-start
+  print "La raiz que se ha calculado en ese intervalo de forma aproximada es:%4.3f" %r
+  print "El tiempo que ha tardado en ejecutarse el calculo en segundos es:"
+  print finish
+  
+else:
+  print "No podemos asegurar que en el intervalo introducido exista raiz, lo sentimos."
+\end{verbatim}
+
+
+Tras hallar la biseccion deseada, se pide al usuario un valor de x para representar la funcion en un intervalo de -x a x. Con la ayuda de un bucle for conseguimos dar valores desde el 0 hasta x y guardarlos en un vector en los valores de y. De este modo podemos tener los puntos a representar.
+
+\begin{verbatim}
 x=int(raw_input("Introduzca el maximo valor de x para la representacion: "))
 lista=[]
 for i in range(x):
   y=math.cos(math.pi*i)
   lista.append(y)
-  
+\end{verbatim}
 
+Por ultimo representamos la funcion. Elejimos el color y el ancho de la linea. Como nos interesa ver el corte con el eje de abcisas, representamos una recta x multiplicada por 0, asi todos sus puntos valdran 0. Le ponemos un titulo a la grafica, la guardamos y la mostramos. 
+\begin{verbatim}
 pl.figure(figsize=(8,6), dpi=80)
 
 X = np.linspace(-x, x, 256, endpoint=True)
@@ -30,9 +79,6 @@ pl.ylim(C.min()*1.1,C.max()*1.1)
 pl.yticks([-1, 0, +1])
 pl.title("Representacion grafica")
 pl.savefig("cos.eps", dpi=72)
-pl.show()
 \end{verbatim}
 
-\end{footnotesize}
-\end{center}
-
+Y aqui termina el codigo.
