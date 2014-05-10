@@ -80,7 +80,7 @@ En la figura, se muestra gráficamente como los valores sucesivos convergen en u
 \begin{frame}
 \frametitle{Teorema de Bisección}
 \begin{block}{Teorema}
-Si $[a_0, b_0],[a_1,b1],...,[a_n,b_n],...,$ denotan los intervalos en el método de la bisección, entonces los límites $\lim_{n\rightarrow \infty} a_n$ y $\lim_{n\rightarrow \infty}b_n $ existen , son iguales y representan un cero de f. Si r=$\lim_{n\rightarrow \infty}c_n$ y $c_n=(a_n+b_n)$ entonces: $$|r-c_n|<=2^{-(n+1)} (b_0 - a_0)$$
+Si $[a_0, b_0],[a_1,b1],...,[a_n,b_n],...,$ de notan los intervalos en el método de la bisección, entonces los límites $\lim_{n\rightarrow \infty} a_n$ y $\lim_{n\rightarrow \infty}b_n $ existen , son iguales y representan un cero de f. Si r=$\lim_{n\rightarrow \infty}c_n$ y $c_n=(a_n+b_n)$ entonces: $$|r-c_n|\leq2^{-(n+1)} (b_0 - a_0)$$
 \end{block}
 
 \end{frame}
@@ -208,26 +208,26 @@ A continuación se muestra el código fuente creado en \textsf{Python} para la r
   {\small $www.juegosdelogica.com/numero\_\pi.htm$}
   
   \beamertermplatebookbibitems
-  \bibitem[Internet]{Juegos de lógica}
+  \bibitem[Biblioteca]{Libro}
   {\small $Análisis\_Numérico\_con\_Aplicaciones. Gerald·Wheatley. Editorial: Prentice\_Hall$}
   
   \beamertermplatebookbibitems
-  \bibitem[Internet]{Juegos de lógica}
+  \bibitem[Biblioteca]{Libro}
   {\small $Las\_Matemáticas\_del\_Cálculo\_Científico.\_David \_kincaid\_y\_Ward\_Cheney.$}
   
   \beamertermplatebookbibitems
-  \bibitem[Internet]{wikipedia}
+  \bibitem[Biblioteca]{PuntoQ}
   {\small $PuntoQ:$}
   {\small$http://riunet.upv.es/handle/10251/5617$}
   {\small$http://riunet.upv.es/handle/10251/2063$}
   {\small$http://riunet.upv.es/handle/10251/5567$}
   
   \beamertermplatebookbibitems
-  \bibitem[Internet]{Juegos de lógica}
+  \bibitem[Internet]{Carmona Teaching}
   {\small $http://www.ma3.upc.edu/users/carmona/teaching/clases/08-09/trabajos/metodo\%20biseccion.pdf$}
   
   \beamertermplatebookbibitems
-  \bibitem[Internet]{Juegos de lógica}
+  \bibitem[Internet]{Github}
   {\small $Puede\_acceder\_al\_Repositorio\_online\_en:$}  
   {\small $https://github.com/alu0100833218/Equipo\_1\_A$}
   

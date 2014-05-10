@@ -33,7 +33,7 @@ if f(A)*f(B)<0.00000001:
   print finish
   
 else:
-  print "En el intervalo introducido no existe raíz, lo sentimos."
+  print "No podemos asegurar que en el intervalo introducido exista raíz, lo sentimos."
   
 x=int(raw_input("Introduzca el maximo valor de x para la representacion: "))
 lista=[]
