@@ -163,7 +163,7 @@ A continuación se muestra el código fuente creado en \textsf{Python} para la r
 
 \begin{figure}[b]
 \begin{center}
-\includegraphics[scale=0.6]{python2.jpeg}
+\includegraphics[scale=0.6]{python5.jpeg}
 \end{center}
 \end{figure}
 \begin{figure}[b]\includegraphics[width=0.2\textwidth]{images/logotipo-secundario-ULL}\\[0.25cm]
@@ -192,6 +192,15 @@ A continuación se muestra el código fuente creado en \textsf{Python} para la r
 \includegraphics[scale=0.5]{cos.jpeg}
 \end{center}
 \end{figure}
+\end{frame}
+
+\section{Concluiones}
+
+\begin{frame}
+\frametitle{Conclusiones}
+\begin{block}
+Podemos concluir, tras explicar el método de bisección, realizar un ejemplo general y uno particular con nuestra función asignada, y generar un código \textsf{Python} para la resolución de este problema, que la bisección es una forma bastante eficiente de calcular raíces de una función. Además es un método sencillo, convirtiéndose así en uno de los más usados, por su eficacia y facilidad.  
+\end{block}
 \end{frame}
 
 \section{La Bibliografía}
